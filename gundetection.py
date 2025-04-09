@@ -3,6 +3,7 @@ import cv2
 import imutils
 import datetime
 
+
 # Load the gun cascade
 gun_cascade = cv2.CascadeClassifier('cascade.xml')
 
